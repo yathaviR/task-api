@@ -147,4 +147,3 @@ Backend Developer | C# | .NET | SQL
 
 Open source for portfolio purposes.
 ```
-
