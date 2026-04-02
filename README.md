@@ -138,7 +138,7 @@ TaskApi/
 
 ## Author
 
-**Your Name**  
+**Yathavi Karunakaram**  
 Backend Developer | C# | .NET | SQL
 
 [LinkedIn](https://linkedin.com/in/yathavi-ramesh) | [GitHub](https://github.com/yathaviR)
