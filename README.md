@@ -148,20 +148,3 @@ Backend Developer | C# | .NET | SQL
 Open source for portfolio purposes.
 ```
 
-4. Click **Commit new file**
-
----
-
-## **Update Your LinkedIn**
-
-Add this to your LinkedIn About section:
-```
-Backend developer with 1.5 years production .NET experience. 
-Just built a Task Management REST API from scratch using .NET 9, 
-Entity Framework Core, and SQL Server. 
-
-Full code on GitHub: [link to your repo]
-
-Tech stack: C#, .NET, SQL Server, REST APIs, Entity Framework
-
-Open to: Remote, full-time backend/full-stack roles
